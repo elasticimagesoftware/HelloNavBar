@@ -1,10 +1,12 @@
 //
 //  SecondViewController.h
-//  PushAndPop
+//  HelloNavBar
+//
+//  Created by turner on 5/4/10.
+//  Copyright Douglass Turner Consulting 2010. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
-
 
 @interface SecondViewController : UIViewController {
     UILabel *label;

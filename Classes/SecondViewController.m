@@ -1,10 +1,12 @@
 //
 //  SecondViewController.m
-//  PushAndPop
+//  HelloNavBar
+//
+//  Created by turner on 5/4/10.
+//  Copyright Douglass Turner Consulting 2010. All rights reserved.
 //
 
 #import "SecondViewController.h"
-
 
 @implementation SecondViewController
 
@@ -15,7 +17,7 @@
 {
     if (self = [self initWithNibName:@"SecondView" bundle:nil]) {
         // Custom initialization
-        self.title = @"Second";
+        self.title = @"Thing Two";
         self.text = someText;
     }
     return self;
