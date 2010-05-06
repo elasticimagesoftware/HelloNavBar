@@ -2,8 +2,8 @@
 //  SecondViewController.m
 //  HelloNavBar
 //
-//  Created by turner on 5/4/10.
-//  Copyright Douglass Turner Consulting 2010. All rights reserved.
+//  Created by Douglass Turner on 5/6/10.
+//  Copyright Elastic Image Software LLC 2010. All rights reserved.
 //
 
 #import "SecondViewController.h"
